@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "FIFA_RESULT",
+    "matchId": "D01M01",
+    "matchDay": 1,
+    "matchNumber": 1,
+    "teamA": "Mexico",
+    "teamB": "South Africa",
+    "teamAScore": 2,
+    "teamBScore": 1,
+    "winner": "Mexico",
+    "scoreText": "Mexico 2 - 1 South Africa",
+    "matchStatus": "Completed",
+    "sourceLink": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+    "publishedTime": "2026-06-11T22:30:00Z"
+  }
+]
