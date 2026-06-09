@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>FIFA Match Results Feed</title>
+    <link>https://karthikperi254.github.io/fifa-rss-feed/rss.xml</link>
+    <description>Controlled RSS feed for FIFA match results</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jun 2026 06:17:57 +0000</lastBuildDate>
+    
+    <item>
+      <title>FIFA_RESULT|D01M01|Mexico|South Africa|2|1|Mexico|Mexico 2 - 1 South Africa|Completed</title>
+      <link>https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures</link>
+      <guid isPermaLink="false">D01M01-final</guid>
+      <pubDate>Thu, 11 Jun 2026 22:30:00 +0000</pubDate>
+      <description>MatchID: D01M01 | Match: Mexico vs South Africa | Score: Mexico 2 - 1 South Africa | Winner: Mexico | Status: Completed</description>
+    </item>
+
+  </channel>
+</rss>
