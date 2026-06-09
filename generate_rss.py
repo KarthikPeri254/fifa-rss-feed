@@ -4,7 +4,7 @@ from email.utils import format_datetime
 from html import escape
 from pathlib import Path
 
-BASE_URL = "https://github.com/KarthikPeri254/fifa-rss-feed"
+BASE_URL = "https://karthikperi254.github.io/fifa-rss-feed"
 INPUT_FILE = Path("results.json")
 OUTPUT_FILE = Path("rss.xml")
 
